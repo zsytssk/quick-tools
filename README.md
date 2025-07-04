@@ -1,5 +1,8 @@
-# Vue 3 + TypeScript + Vite
+# 目的
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+写一些前端工具, 方便自己使用.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## copy-code
+
+将代码复制成JSON字符串, 方便插入到数据库中, 自己在测试代码时需要这种功能, 但是也没有找到合适的工具, 所以自己写了一个. 代码实在是太简单了.
+也许可以写一个JSON字符串到代码转换的工具.
